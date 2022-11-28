@@ -21,8 +21,16 @@
 ![image](https://user-images.githubusercontent.com/48949396/204177369-d05b598c-a8ec-4305-bbbe-4f0ffb177c43.png)
 
 2. 再点击课程管理
-3. 
+
 出现如下，其中包含校级平台选课和课程选课，这两者选课方法一样，但是包含的课程不一样，如果发现其中一个里面没有你需要的课，那就去另外一个看看。
 ![image](https://user-images.githubusercontent.com/48949396/204177449-766cc352-ca77-488c-98cf-8e9b31792a5d.png)
+
+3. 这里我以课程选课为例
+
+![image](https://user-images.githubusercontent.com/48949396/204177643-5fdfb49e-758e-4536-8ba0-56ee5eedbba4.png)
+
+点击可以看到，有增课(平台选课)申请和增课(平台选课)已完成，内容即为字面意思，然后双击增课(平台选课)申请
+在软件的右边界面就出现了新的页面
+![image](https://user-images.githubusercontent.com/48949396/204177857-a9c9b881-d8ea-4e8f-a9a2-4f8c2c249176.png)
 
 ---------
