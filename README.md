@@ -50,6 +50,15 @@
 
 ![image](https://user-images.githubusercontent.com/48949396/204178086-ea07d495-568b-43ee-8bb2-1b112144099c.png)
 
-出现课程选取界面
+出现课程选取界面，双击我们需要的课程，进入下一界面
+
+![image](https://user-images.githubusercontent.com/48949396/204178236-ef81e4f5-7a67-4809-9c54-c2b912d2486f.png)
+
+增选原因可以填写必修之类，这个无所谓。再点击左上角提交即完成选课，也可以选择右边的保存再考虑需不需要选择该课程。
+
+![image](https://user-images.githubusercontent.com/48949396/204178301-b3123067-d801-439d-8a08-a5b2a1ed035f.png)
+
+点击提交就可以去课程表查询，查看是否课程已经被选进。
+![image](https://user-images.githubusercontent.com/48949396/204178547-79907744-72d8-428d-88f6-8f31a54db66d.png)
 
 ---------
