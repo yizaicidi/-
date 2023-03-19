@@ -1,6 +1,11 @@
-
 # 此系统软件只使用于windows系统，其它系统请找一台装有windows的电脑
 ----------------------------
+# 下载
+点击该按钮下拉有一个Download Zip选项，点击后开始下载一个压缩包文件
+![image](https://user-images.githubusercontent.com/48949396/226178950-ef73dd85-114e-403e-bf32-46cee5f1177a.png)
+
+- 下载完成后，解压该压缩包，点开压缩后的文件夹，右击ClientLauncher.exe，选择管理员打开，即可打开该软件
+
 
 ## 1. 系统登陆
 
